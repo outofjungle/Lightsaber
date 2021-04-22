@@ -1811,38 +1811,38 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </class>
 </classes>
 <parts>
-<part name="D1" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="1" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="C1" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" deviceset="C" device="CHIP-0805(2012-METRIC)" package3d_urn="urn:adsk.eagle:package:16290897/2" technology="_" value="0.1uF"/>
 <part name="JST-IN" library="custom" library_urn="urn:adsk.eagle:library:28163416" deviceset="JST-4-SH" device="" package3d_urn="urn:adsk.eagle:package:28163719/2" value="JST-SH 4 Pos"/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
 <part name="SUPPLY3" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
 <part name="GND3" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="D2" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="2" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY5" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D3" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="3" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND6" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D4" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="4" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D5" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="5" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND8" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY8" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D6" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="6" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND9" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D7" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="7" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND10" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D8" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="8" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND11" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY11" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D9" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="9" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND12" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY12" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
-<part name="D10" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
+<part name="10" library="SparkFun-LED" deviceset="APA102" device="-5050"/>
 <part name="GND13" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY13" library="SparkFun-PowerSymbols" deviceset="VCC" device=""/>
 <part name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" deviceset="C" device="CHIP-0805(2012-METRIC)" package3d_urn="urn:adsk.eagle:package:16290897/2" technology="_" value="0.1uF"/>
@@ -1882,7 +1882,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <plain>
 </plain>
 <instances>
-<instance part="D1" gate="G$1" x="38.1" y="68.58" smashed="yes">
+<instance part="1" gate="G$1" x="38.1" y="68.58" smashed="yes">
 <attribute name="NAME" x="42.926" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="43.688" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1906,7 +1906,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="GND3" gate="1" x="38.1" y="33.02" smashed="yes">
 <attribute name="VALUE" x="38.1" y="32.766" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="D2" gate="G$1" x="63.5" y="68.58" smashed="yes">
+<instance part="2" gate="G$1" x="63.5" y="68.58" smashed="yes">
 <attribute name="NAME" x="68.326" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="69.088" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1916,7 +1916,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY5" gate="G$1" x="63.5" y="81.28" smashed="yes">
 <attribute name="VALUE" x="63.5" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D3" gate="G$1" x="88.9" y="68.58" smashed="yes">
+<instance part="3" gate="G$1" x="88.9" y="68.58" smashed="yes">
 <attribute name="NAME" x="93.726" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="94.488" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1926,7 +1926,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY6" gate="G$1" x="88.9" y="81.28" smashed="yes">
 <attribute name="VALUE" x="88.9" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D4" gate="G$1" x="114.3" y="68.58" smashed="yes">
+<instance part="4" gate="G$1" x="114.3" y="68.58" smashed="yes">
 <attribute name="NAME" x="119.126" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="119.888" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1936,7 +1936,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY7" gate="G$1" x="114.3" y="81.28" smashed="yes">
 <attribute name="VALUE" x="114.3" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D5" gate="G$1" x="139.7" y="68.58" smashed="yes">
+<instance part="5" gate="G$1" x="139.7" y="68.58" smashed="yes">
 <attribute name="NAME" x="144.526" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="145.288" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1946,7 +1946,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY8" gate="G$1" x="139.7" y="81.28" smashed="yes">
 <attribute name="VALUE" x="139.7" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D6" gate="G$1" x="165.1" y="68.58" smashed="yes">
+<instance part="6" gate="G$1" x="165.1" y="68.58" smashed="yes">
 <attribute name="NAME" x="169.926" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="170.688" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1956,7 +1956,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY9" gate="G$1" x="165.1" y="81.28" smashed="yes">
 <attribute name="VALUE" x="165.1" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D7" gate="G$1" x="190.5" y="68.58" smashed="yes">
+<instance part="7" gate="G$1" x="190.5" y="68.58" smashed="yes">
 <attribute name="NAME" x="195.326" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="196.088" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1966,7 +1966,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY10" gate="G$1" x="190.5" y="81.28" smashed="yes">
 <attribute name="VALUE" x="190.5" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D8" gate="G$1" x="215.9" y="68.58" smashed="yes">
+<instance part="8" gate="G$1" x="215.9" y="68.58" smashed="yes">
 <attribute name="NAME" x="220.726" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="221.488" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1976,7 +1976,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY11" gate="G$1" x="215.9" y="81.28" smashed="yes">
 <attribute name="VALUE" x="215.9" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D9" gate="G$1" x="241.3" y="68.58" smashed="yes">
+<instance part="9" gate="G$1" x="241.3" y="68.58" smashed="yes">
 <attribute name="NAME" x="246.126" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="246.888" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -1986,7 +1986,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <instance part="SUPPLY12" gate="G$1" x="241.3" y="81.28" smashed="yes">
 <attribute name="VALUE" x="241.3" y="84.074" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D10" gate="G$1" x="266.7" y="68.58" smashed="yes">
+<instance part="10" gate="G$1" x="266.7" y="68.58" smashed="yes">
 <attribute name="NAME" x="271.526" y="73.914" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="272.288" y="63.754" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
@@ -2106,7 +2106,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <nets>
 <net name="GND" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="GND"/>
+<pinref part="1" gate="G$1" pin="GND"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="38.1" y1="63.5" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
 </segment>
@@ -2116,47 +2116,47 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <wire x1="38.1" y1="38.1" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D2" gate="G$1" pin="GND"/>
+<pinref part="2" gate="G$1" pin="GND"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="63.5" y1="63.5" x2="63.5" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="GND"/>
+<pinref part="3" gate="G$1" pin="GND"/>
 <pinref part="GND6" gate="1" pin="GND"/>
 <wire x1="88.9" y1="63.5" x2="88.9" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D4" gate="G$1" pin="GND"/>
+<pinref part="4" gate="G$1" pin="GND"/>
 <pinref part="GND7" gate="1" pin="GND"/>
 <wire x1="114.3" y1="63.5" x2="114.3" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D5" gate="G$1" pin="GND"/>
+<pinref part="5" gate="G$1" pin="GND"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 <wire x1="139.7" y1="63.5" x2="139.7" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D6" gate="G$1" pin="GND"/>
+<pinref part="6" gate="G$1" pin="GND"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 <wire x1="165.1" y1="63.5" x2="165.1" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D7" gate="G$1" pin="GND"/>
+<pinref part="7" gate="G$1" pin="GND"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 <wire x1="190.5" y1="63.5" x2="190.5" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D8" gate="G$1" pin="GND"/>
+<pinref part="8" gate="G$1" pin="GND"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 <wire x1="215.9" y1="63.5" x2="215.9" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D9" gate="G$1" pin="GND"/>
+<pinref part="9" gate="G$1" pin="GND"/>
 <pinref part="GND12" gate="1" pin="GND"/>
 <wire x1="241.3" y1="63.5" x2="241.3" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D10" gate="G$1" pin="GND"/>
+<pinref part="10" gate="G$1" pin="GND"/>
 <pinref part="GND13" gate="1" pin="GND"/>
 <wire x1="266.7" y1="63.5" x2="266.7" y2="60.96" width="0.1524" layer="91"/>
 </segment>
@@ -2231,7 +2231,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </net>
 <net name="VCC" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="VCC"/>
+<pinref part="1" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY2" gate="G$1" pin="VCC"/>
 <wire x1="38.1" y1="76.2" x2="38.1" y2="81.28" width="0.1524" layer="91"/>
 </segment>
@@ -2241,47 +2241,47 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <wire x1="38.1" y1="45.72" x2="38.1" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D2" gate="G$1" pin="VCC"/>
+<pinref part="2" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY5" gate="G$1" pin="VCC"/>
 <wire x1="63.5" y1="76.2" x2="63.5" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="VCC"/>
+<pinref part="3" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY6" gate="G$1" pin="VCC"/>
 <wire x1="88.9" y1="76.2" x2="88.9" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D4" gate="G$1" pin="VCC"/>
+<pinref part="4" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY7" gate="G$1" pin="VCC"/>
 <wire x1="114.3" y1="76.2" x2="114.3" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D5" gate="G$1" pin="VCC"/>
+<pinref part="5" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY8" gate="G$1" pin="VCC"/>
 <wire x1="139.7" y1="76.2" x2="139.7" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D6" gate="G$1" pin="VCC"/>
+<pinref part="6" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY9" gate="G$1" pin="VCC"/>
 <wire x1="165.1" y1="76.2" x2="165.1" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D7" gate="G$1" pin="VCC"/>
+<pinref part="7" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY10" gate="G$1" pin="VCC"/>
 <wire x1="190.5" y1="76.2" x2="190.5" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D8" gate="G$1" pin="VCC"/>
+<pinref part="8" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY11" gate="G$1" pin="VCC"/>
 <wire x1="215.9" y1="76.2" x2="215.9" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D9" gate="G$1" pin="VCC"/>
+<pinref part="9" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY12" gate="G$1" pin="VCC"/>
 <wire x1="241.3" y1="76.2" x2="241.3" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="D10" gate="G$1" pin="VCC"/>
+<pinref part="10" gate="G$1" pin="VCC"/>
 <pinref part="SUPPLY13" gate="G$1" pin="VCC"/>
 <wire x1="266.7" y1="76.2" x2="266.7" y2="81.28" width="0.1524" layer="91"/>
 </segment>
@@ -2356,7 +2356,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <label x="2.54" y="78.74" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="CI"/>
+<pinref part="1" gate="G$1" pin="CI"/>
 <wire x1="27.94" y1="71.12" x2="25.4" y2="73.66" width="0.1524" layer="91"/>
 <label x="25.4" y="73.66" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -2374,7 +2374,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <label x="5.08" y="73.66" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="DI"/>
+<pinref part="1" gate="G$1" pin="DI"/>
 <wire x1="27.94" y1="68.58" x2="25.4" y2="68.58" width="0.1524" layer="91"/>
 <label x="25.4" y="68.58" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -2387,133 +2387,133 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </net>
 <net name="CI$10" class="0">
 <segment>
-<pinref part="D10" gate="G$1" pin="CI"/>
-<pinref part="D9" gate="G$1" pin="CO"/>
+<pinref part="10" gate="G$1" pin="CI"/>
+<pinref part="9" gate="G$1" pin="CO"/>
 <wire x1="256.54" y1="71.12" x2="251.46" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$10" class="0">
 <segment>
-<pinref part="D9" gate="G$1" pin="DO"/>
-<pinref part="D10" gate="G$1" pin="DI"/>
+<pinref part="9" gate="G$1" pin="DO"/>
+<pinref part="10" gate="G$1" pin="DI"/>
 <wire x1="251.46" y1="68.58" x2="256.54" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$9" class="0">
 <segment>
-<pinref part="D8" gate="G$1" pin="CO"/>
-<pinref part="D9" gate="G$1" pin="CI"/>
+<pinref part="8" gate="G$1" pin="CO"/>
+<pinref part="9" gate="G$1" pin="CI"/>
 <wire x1="226.06" y1="71.12" x2="231.14" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$9" class="0">
 <segment>
-<pinref part="D8" gate="G$1" pin="DO"/>
-<pinref part="D9" gate="G$1" pin="DI"/>
+<pinref part="8" gate="G$1" pin="DO"/>
+<pinref part="9" gate="G$1" pin="DI"/>
 <wire x1="226.06" y1="68.58" x2="231.14" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$8" class="0">
 <segment>
-<pinref part="D7" gate="G$1" pin="CO"/>
-<pinref part="D8" gate="G$1" pin="CI"/>
+<pinref part="7" gate="G$1" pin="CO"/>
+<pinref part="8" gate="G$1" pin="CI"/>
 <wire x1="200.66" y1="71.12" x2="205.74" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$8" class="0">
 <segment>
-<pinref part="D7" gate="G$1" pin="DO"/>
-<pinref part="D8" gate="G$1" pin="DI"/>
+<pinref part="7" gate="G$1" pin="DO"/>
+<pinref part="8" gate="G$1" pin="DI"/>
 <wire x1="200.66" y1="68.58" x2="205.74" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$7" class="0">
 <segment>
-<pinref part="D6" gate="G$1" pin="CO"/>
-<pinref part="D7" gate="G$1" pin="CI"/>
+<pinref part="6" gate="G$1" pin="CO"/>
+<pinref part="7" gate="G$1" pin="CI"/>
 <wire x1="175.26" y1="71.12" x2="180.34" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$7" class="0">
 <segment>
-<pinref part="D6" gate="G$1" pin="DO"/>
-<pinref part="D7" gate="G$1" pin="DI"/>
+<pinref part="6" gate="G$1" pin="DO"/>
+<pinref part="7" gate="G$1" pin="DI"/>
 <wire x1="175.26" y1="68.58" x2="180.34" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$6" class="0">
 <segment>
-<pinref part="D5" gate="G$1" pin="CO"/>
-<pinref part="D6" gate="G$1" pin="CI"/>
+<pinref part="5" gate="G$1" pin="CO"/>
+<pinref part="6" gate="G$1" pin="CI"/>
 <wire x1="149.86" y1="71.12" x2="154.94" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$6" class="0">
 <segment>
-<pinref part="D5" gate="G$1" pin="DO"/>
-<pinref part="D6" gate="G$1" pin="DI"/>
+<pinref part="5" gate="G$1" pin="DO"/>
+<pinref part="6" gate="G$1" pin="DI"/>
 <wire x1="149.86" y1="68.58" x2="154.94" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$5" class="0">
 <segment>
-<pinref part="D4" gate="G$1" pin="CO"/>
-<pinref part="D5" gate="G$1" pin="CI"/>
+<pinref part="4" gate="G$1" pin="CO"/>
+<pinref part="5" gate="G$1" pin="CI"/>
 <wire x1="124.46" y1="71.12" x2="129.54" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$5" class="0">
 <segment>
-<pinref part="D4" gate="G$1" pin="DO"/>
-<pinref part="D5" gate="G$1" pin="DI"/>
+<pinref part="4" gate="G$1" pin="DO"/>
+<pinref part="5" gate="G$1" pin="DI"/>
 <wire x1="124.46" y1="68.58" x2="129.54" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$4" class="0">
 <segment>
-<pinref part="D3" gate="G$1" pin="CO"/>
-<pinref part="D4" gate="G$1" pin="CI"/>
+<pinref part="3" gate="G$1" pin="CO"/>
+<pinref part="4" gate="G$1" pin="CI"/>
 <wire x1="99.06" y1="71.12" x2="104.14" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$4" class="0">
 <segment>
-<pinref part="D3" gate="G$1" pin="DO"/>
-<pinref part="D4" gate="G$1" pin="DI"/>
+<pinref part="3" gate="G$1" pin="DO"/>
+<pinref part="4" gate="G$1" pin="DI"/>
 <wire x1="99.06" y1="68.58" x2="104.14" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$3" class="0">
 <segment>
-<pinref part="D2" gate="G$1" pin="CO"/>
-<pinref part="D3" gate="G$1" pin="CI"/>
+<pinref part="2" gate="G$1" pin="CO"/>
+<pinref part="3" gate="G$1" pin="CI"/>
 <wire x1="73.66" y1="71.12" x2="78.74" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$3" class="0">
 <segment>
-<pinref part="D2" gate="G$1" pin="DO"/>
-<pinref part="D3" gate="G$1" pin="DI"/>
+<pinref part="2" gate="G$1" pin="DO"/>
+<pinref part="3" gate="G$1" pin="DI"/>
 <wire x1="73.66" y1="68.58" x2="78.74" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CI$2" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="CO"/>
-<pinref part="D2" gate="G$1" pin="CI"/>
+<pinref part="1" gate="G$1" pin="CO"/>
+<pinref part="2" gate="G$1" pin="CI"/>
 <wire x1="48.26" y1="71.12" x2="53.34" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DI$2" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="DO"/>
-<pinref part="D2" gate="G$1" pin="DI"/>
+<pinref part="1" gate="G$1" pin="DO"/>
+<pinref part="2" gate="G$1" pin="DI"/>
 <wire x1="48.26" y1="68.58" x2="53.34" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CO" class="0">
 <segment>
-<pinref part="D10" gate="G$1" pin="CO"/>
+<pinref part="10" gate="G$1" pin="CO"/>
 <wire x1="276.86" y1="71.12" x2="279.4" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="279.4" y1="71.12" x2="279.4" y2="73.66" width="0.1524" layer="91"/>
 <label x="279.4" y="73.66" size="1.778" layer="95" xref="yes"/>
@@ -2526,7 +2526,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </net>
 <net name="DO" class="0">
 <segment>
-<pinref part="D10" gate="G$1" pin="DO"/>
+<pinref part="10" gate="G$1" pin="DO"/>
 <wire x1="276.86" y1="68.58" x2="279.4" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="279.4" y1="68.58" x2="279.4" y2="66.04" width="0.1524" layer="91"/>
 <label x="279.4" y="66.04" size="1.778" layer="95" xref="yes"/>
