@@ -759,7 +759,7 @@
 <rectangle x1="195.05" y1="9.25" x2="195.45" y2="9.35" layer="22" rot="R180"/>
 <rectangle x1="194.05" y1="9.25" x2="194.35" y2="9.35" layer="22" rot="R180"/>
 <rectangle x1="191.25" y1="9.25" x2="193.65" y2="9.35" layer="22" rot="R180"/>
-<text x="180.5" y="2.8" size="1.778" layer="22" font="vector" ratio="10" rot="MR0">Lightsaber V1.0
+<text x="180.5" y="2.8" size="1.778" layer="22" font="vector" ratio="10" rot="MR0">Lightsaber V1.1
 @0x76656e</text>
 <text x="5" y="1.5" size="1.016" layer="22" font="vector" rot="MR0">GND</text>
 <text x="5" y="3.5" size="1.016" layer="22" font="vector" rot="MR0">VCC</text>
@@ -995,7 +995,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="default">
+<designrules name="default *">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
@@ -1063,7 +1063,7 @@ design rules under a new name.</description>
 <param name="mlMaxStopFrame" value="4mil"/>
 <param name="mlMinCreamFrame" value="0mil"/>
 <param name="mlMaxCreamFrame" value="0mil"/>
-<param name="mlViaStopLimit" value="0mil"/>
+<param name="mlViaStopLimit" value="0.36mm"/>
 <param name="srRoundness" value="0"/>
 <param name="srMinRoundness" value="0mil"/>
 <param name="srMaxRoundness" value="0mil"/>
