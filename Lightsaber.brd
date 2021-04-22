@@ -765,18 +765,18 @@
 <text x="5" y="3.5" size="1.016" layer="22" font="vector" rot="MR0">VCC</text>
 <text x="5" y="5.5" size="1.016" layer="22" font="vector" rot="MR0">DI</text>
 <text x="5" y="7.5" size="1.016" layer="22" font="vector" rot="MR0">CI</text>
-<text x="204" y="1.5" size="1.016" layer="22" font="vector" rot="MR0">GND</text>
-<text x="204" y="3.5" size="1.016" layer="22" font="vector" rot="MR0">VCC</text>
-<text x="204" y="5.5" size="1.016" layer="22" font="vector" rot="MR0">DI</text>
-<text x="204" y="7.5" size="1.016" layer="22" font="vector" rot="MR0">CI</text>
+<text x="203.5" y="1.5" size="1.016" layer="22" font="vector" rot="MR0">GND</text>
+<text x="203.5" y="3.5" size="1.016" layer="22" font="vector" rot="MR0">VCC</text>
+<text x="203.5" y="5.5" size="1.016" layer="22" font="vector" rot="MR0">DO</text>
+<text x="203.5" y="7.5" size="1.016" layer="22" font="vector" rot="MR0">CO</text>
 <wire x1="8" y1="8" x2="6" y2="8" width="0.2" layer="22"/>
 <wire x1="8" y1="6" x2="6" y2="6" width="0.2" layer="22"/>
 <wire x1="8" y1="4" x2="6" y2="4" width="0.2" layer="22"/>
 <wire x1="8" y1="2" x2="6" y2="2" width="0.2" layer="22"/>
-<wire x1="207" y1="8" x2="205" y2="8" width="0.2" layer="22"/>
-<wire x1="207" y1="6" x2="205" y2="6" width="0.2" layer="22"/>
-<wire x1="207" y1="4" x2="205" y2="4" width="0.2" layer="22"/>
-<wire x1="207" y1="2" x2="205" y2="2" width="0.2" layer="22"/>
+<wire x1="207" y1="8" x2="204.5" y2="8" width="0.2" layer="22"/>
+<wire x1="207" y1="6" x2="204.5" y2="6" width="0.2" layer="22"/>
+<wire x1="207" y1="4" x2="204.5" y2="4" width="0.2" layer="22"/>
+<wire x1="207" y1="2" x2="204.5" y2="2" width="0.2" layer="22"/>
 </plain>
 <libraries>
 <library name="Capacitor" urn="urn:adsk.eagle:library:16290819">
@@ -1190,7 +1190,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="51.75" y="35.48" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="51.75" y="35.48" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="51.75" y="35.48" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="20" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="20" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="51.75" y="35.48" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C10" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="200" y="5" smashed="yes" rot="R90">
@@ -1204,7 +1204,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="248.26" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="248.26" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="248.26" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="200" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="200" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="248.26" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C2" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="40" y="5" smashed="yes" rot="R90">
@@ -1218,7 +1218,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="71.75" y="41.83" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="71.75" y="41.83" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="71.75" y="41.83" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="40" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="40" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="71.75" y="41.83" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C3" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="60" y="5" smashed="yes" rot="R90">
@@ -1232,7 +1232,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="91.75" y="48.18" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="91.75" y="48.18" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="91.75" y="48.18" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="60" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="60" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="91.75" y="48.18" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C4" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="80" y="5" smashed="yes" rot="R90">
@@ -1246,7 +1246,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="120.64" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="120.64" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="120.64" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="80" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="80" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="120.64" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C5" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="100" y="5" smashed="yes" rot="R90">
@@ -1260,7 +1260,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="140.64" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="140.64" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="140.64" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="100" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="100" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="140.64" y="27.86" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C6" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="120" y="5" smashed="yes" rot="R90">
@@ -1274,7 +1274,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="160.64" y="34.21" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="160.64" y="34.21" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="160.64" y="34.21" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="120" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="120" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="160.64" y="34.21" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C7" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="140" y="5" smashed="yes" rot="R90">
@@ -1288,7 +1288,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="180.64" y="40.56" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="180.64" y="40.56" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="180.64" y="40.56" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="140" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="140" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="180.64" y="40.56" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C8" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="160" y="5" smashed="yes" rot="R90">
@@ -1302,7 +1302,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="200.64" y="46.91" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="200.64" y="46.91" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="200.64" y="46.91" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="160" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="160" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="200.64" y="46.91" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C9" library="Capacitor" library_urn="urn:adsk.eagle:library:16290819" package="CAPC2012X110" package3d_urn="urn:adsk.eagle:package:16290897/2" value="0.1uF" x="180" y="5" smashed="yes" rot="R90">
@@ -1316,7 +1316,7 @@ design rules under a new name.</description>
 <attribute name="SUB-CATEGORY" value="" x="228.26" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="THERMALLOSS" value="" x="228.26" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TYPE" value="" x="228.26" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="180" y="7" size="1.27" layer="27" rot="R180" align="top-center"/>
+<attribute name="VALUE" x="180" y="2" size="0.8128" layer="27" rot="R180" align="top-center"/>
 <attribute name="VOLTAGE_RATING" value="" x="228.26" y="21.51" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="1" library="SparkFun-LED" package="APA102-5050" value="APA102-5050" x="15" y="5" smashed="yes" rot="R270">
