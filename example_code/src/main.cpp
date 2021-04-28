@@ -1,9 +1,15 @@
 #include <Arduino.h>
 #include <FastLED.h>
 
+#if TARGET_CHIPSET == ATTINY85
+  #define CLOCK_PIN 2
+  #define DATA_PIN 0
+#elif TARGET_CHIPSET == ESP8266
+  #define CLOCK_PIN 14
+  #define DATA_PIN 13
+#endif
+
 #define NUM_LEDS 9
-#define CLOCK_PIN 14
-#define DATA_PIN 13
 
 CRGB leds[NUM_LEDS];
 
