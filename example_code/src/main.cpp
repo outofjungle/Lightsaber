@@ -7,6 +7,9 @@
 #elif TARGET_CHIPSET == ESP8266
 #define CLOCK_PIN 14
 #define DATA_PIN 13
+#elif TARGET_CHIPSET == ESP32
+#define CLOCK_PIN 18
+#define DATA_PIN 23
 #endif
 
 #define NUM_LEDS 10
